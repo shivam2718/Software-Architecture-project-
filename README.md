@@ -1,4 +1,4 @@
-# BlinkIt Clone - Full Stack E-commerce Application
+# Country Groceries - Full Stack E-commerce Application
 
 A full-stack e-commerce application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) that mimics core functionalities of BlinkIt.
 
@@ -99,3 +99,4 @@ Contributions, issues, and feature requests are welcome!
 
 Your Name
 - GitHub: [@yourusername](https://github.com/yourusername)
+
